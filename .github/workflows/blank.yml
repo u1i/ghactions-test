@@ -30,4 +30,8 @@ jobs:
         echo Add other actions to build,
         echo test, and deploy your project.
         date
-        ls -l
+        ls -la
+        uname -a
+        df -h
+        which wget
+        which curl
