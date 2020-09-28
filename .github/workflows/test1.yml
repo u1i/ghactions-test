@@ -35,4 +35,4 @@ jobs:
         df -h
         which wget
         which curl
-        curl -X POST -H "Content-Type: application/json" -d '{"value1":"message","value2":"from","value3":"GitHub actions"}' https://maker.ifttt.com/trigger/triggerdevops/with/key/HEEX2rf6I5oK3-_0pPq51
+        curl -X POST -H "Content-Type: application/json" -d '{"value1":"stuff happened","value2":"","value3":""}' https://maker.ifttt.com/trigger/triggerdevops/with/key/HEEX2rf6I5oK3-_0pPq51
