@@ -1,15 +1,1 @@
-24362
-
-<<<<<<< HEAD
-lorem ipsum
-=======
-test 123
->>>>>>> d4c698349b6658cdb432de76a70813bcc5990f61
-
-hello class! today is June 7th 2021
-
-ewrjhewtjhejrhleqwjrhjhtrewjhtjrewhtwjekrht
-
-wejmrjwerhwejrhewjkrhjekwqhrjkwerwer
-
-qerhjgqwhjeghjqwehjqweqweweqwqweqqwe
+31145
