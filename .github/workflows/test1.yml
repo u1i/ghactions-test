@@ -36,3 +36,5 @@ jobs:
         which wget
         which curl
         curl -X POST -H "Content-Type: application/json" -d '{"value1":"hello DevOps students – I hope this is inspiring!","value2":"","value3":""}' https://maker.ifttt.com/trigger/triggerdevops/with/key/${{ secrets.IFTTT_KEY }}
+      
+    # End
